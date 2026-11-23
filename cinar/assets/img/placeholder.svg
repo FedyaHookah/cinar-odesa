@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Фото страви">
+  <rect width="240" height="240" fill="#FFF1BD"/>
+  <g transform="translate(72 66) scale(1.5)" fill="#C1272D" opacity=".45">
+    <path d="M32 4C35 9 38 13 40 17C45 14 50 12 56 12C54 17 52 22 50 26C54 26 58 28 61 31C56 36 51 40 44 42C43 46 41 50 38 52C36 50 34 48 32 47C30 48 28 50 26 52C23 50 21 46 20 42C13 40 8 36 3 31C6 28 10 26 14 26C12 22 10 17 8 12C14 12 19 14 24 17C26 13 29 9 32 4Z"/>
+  </g>
+</svg>

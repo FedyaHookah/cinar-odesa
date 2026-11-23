@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360">
+  <defs>
+    <!-- бута: крапля із загнутим кінчиком -->
+    <g id="buta" fill="none" stroke="black" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M50 95C20 95 8 68 18 45C28 22 52 8 68 5C62 14 66 22 74 30C88 44 88 70 72 85C64 92 58 95 50 95Z"/>
+      <path d="M50 80C32 80 26 64 32 50C38 36 52 28 60 26C58 32 62 38 66 44C74 54 72 68 64 74C60 78 55 80 50 80Z"/>
+      <circle cx="50" cy="60" r="4.2" fill="black" stroke="none"/>
+      <circle cx="40" cy="70" r="2.2" fill="black" stroke="none"/>
+      <circle cx="60" cy="70" r="2.2" fill="black" stroke="none"/>
+      <circle cx="46" cy="46" r="2.2" fill="black" stroke="none"/>
+    </g>
+    <!-- листок чинара -->
+    <g id="leaf" fill="none" stroke="black" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M32 4C35 9 38 13 40 17C45 14 50 12 56 12C54 17 52 22 50 26C54 26 58 28 61 31C56 36 51 40 44 42C43 46 41 50 38 52C36 50 34 48 32 47C30 48 28 50 26 52C23 50 21 46 20 42C13 40 8 36 3 31C6 28 10 26 14 26C12 22 10 17 8 12C14 12 19 14 24 17C26 13 29 9 32 4Z"/>
+      <path d="M32 47L32 11M32 45L53 15M32 45L11 15M32 44L57 31M32 44L7 31M32 47L32 62"/>
+    </g>
+  </defs>
+  <use href="#buta" transform="translate(34 30) rotate(-20) scale(1.05)"/>
+  <use href="#leaf" transform="translate(214 44) rotate(12) scale(1.05)"/>
+  <use href="#leaf" transform="translate(44 214) rotate(-24) scale(.95)"/>
+  <use href="#buta" transform="translate(326 330) rotate(160) scale(1.05)"/>
+  <circle cx="168" cy="168" r="3" fill="black"/>
+  <circle cx="300" cy="170" r="2.4" fill="black"/>
+  <circle cx="130" cy="46" r="2.4" fill="black"/>
+  <circle cx="180" cy="300" r="2.4" fill="black"/>
+  <circle cx="20" cy="150" r="2.2" fill="black"/>
+</svg>
